@@ -1,4 +1,5 @@
 import java.util.function.Predicate;
+@Hazard(danger = 100, description = "Teeth")
 public class Hyena {
     private int age = 1;
 
